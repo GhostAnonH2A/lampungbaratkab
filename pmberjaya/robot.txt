@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://pmberjaya.lampungbaratkab.go.id/storage/pmkskeluarga/1/1/slot-gacor/sitemap.xml
